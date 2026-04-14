@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #31bc0e;
+}
+
+#name{
+    font-size: 3rem;
+    color: #333333;
+    letter-spacing: 2px;
+}
